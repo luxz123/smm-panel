@@ -1,0 +1,6 @@
+cat <<EOF >> .gitignore
+*.zip
+imgs/
+sql.sql
+node_modules/
+EOF
